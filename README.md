@@ -571,8 +571,8 @@ My background includes:
 - **Certified Localization Project Manager (CLPM)**
 - **Generative AI Overview for Project Managers (PMI)**
 - **Prompt Engineering Specialist (LinkedIn Learning)**
-- **Multilingual proficiency** in Spanish, Portuguese, and Italian
-- **Technical expertise** in CAT tools, project management systems, and emerging AI technologies
+- **Multilingual proficiency in Spanish, Portuguese, and Italian**
+- **Technical expertise in CAT tools, project management systems, and emerging AI technologies**
 
 I'm passionate about leveraging AI to enhance productivity and streamline complex workflows in the Translation/localization industry and beyond.
 
