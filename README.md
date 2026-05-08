@@ -575,14 +575,14 @@ My background includes:
 - **Technical expertise** in CAT tools, project management systems, and emerging AI technologies
 
 I'm passionate about leveraging AI to enhance productivity and streamline complex workflows in the Translation/localization industry and beyond.
-<img width="468" height="347" alt="image" src="https://github.com/user-attachments/assets/908eaf0d-d3cd-40d8-8fa1-c63f98cd8e43" />
 
 
 ## 📬 Contact Me
 
-Ready to transform your workflows with AI? Let's discuss how these agents can solve your specific challenges. With my background in localization project management and recent certifications in prompt engineering and generative AI, I specialize in creating practical AI solutions that deliver real business value.
+Ready to transform your workflows with AI? Let's discuss how these agents can solve your specific challenges. With my background in localization project management and recent certifications in AI Agent Development, Prompt Egineering and Generative AI, I specialize in creating practical AI solutions that deliver real business value.
 
 **I can help you with:**
+
 - **Custom AI agent development**
 - **Workflow automation solutions**
 - **Localization and translation AI tools**
